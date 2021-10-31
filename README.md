@@ -9,7 +9,7 @@
 
 3. Features:
 # Random - an array of cards denotation is randomized. The n-th card belongs to player ((n modulo m) + 1), where m is the number of player.
-# Data Structure - a class of player, which includes the player order, the name of the player, sorted hands, and an index returned by search in rank.txt.
+# Data Structure - a class of player, which includes the name of the player, sorted hands, and an index returned by search in rank.txt.
 # Dynamic Memory - a vector of the player class, supporting a varying number of player from at least 1 to at most 10.
 # File Manipulation - writing of rank.txt, reading content of rank.txt into array.
 # Mulitple Codes - a primary and seconday program, and makefile for compilation.
