@@ -10,4 +10,4 @@
 3. Features:
 # Random - an array of cards denotation is randomized. The n-th card belongs to player ((n modulo m) + 1), where m is the number of player.
 # Data Structure - a class of player, which includes player order, name of the player, and hands.
-# Dynamic Memory
+# Dynamic Memory - 
